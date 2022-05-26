@@ -1,1 +1,3 @@
 this day 1 of learning to work on git using terminal only
+
+just learning how to change head of commit
